@@ -66,7 +66,7 @@ function websdkready() {
         ZoomMtg.join({
           meetingNumber: meetingConfig.meetingNumber,
           userName: meetingConfig.userName,
-          signature: "V0ktYXBJMFZUYmE3b3FVMW5EU0tNdy45OTE3MTc1NTQ5NC4xNjE5NTE1NDk0MjY0LjAuZ1ZKSk01d2JzU1VJWkl4VUZkWmN2c2V5OCtHbHRFTXZWdTJITHBhTVFFUT0",
+          signature: "V0ktYXBJMFZUYmE3b3FVMW5EU0tNdy44MjE5OTYyMjQzMy4xNjE5NTE1NzM0MTc0LjAuRmw0YkUyMU9tdkdhaFIwbUZqeVNqaXVaeTl4TjI2azhuZXlHWk5xdDJQUT0",
           apiKey: meetingConfig.apiKey,
           userEmail: meetingConfig.userEmail,
           passWord: meetingConfig.passWord,
