@@ -8,7 +8,7 @@ function websdkready() {
   // get meeting args from url
   var tmpArgs = testTool.parseQuery();
   var meetingConfig = {
-    apiKey: "dPz9JNiLSpySNeACNiI67Q",
+    apiKey: tmpArgs.apiKey,
     meetingNumber: tmpArgs.mn,
     userName: (function () {
       if (tmpArgs.name) {
